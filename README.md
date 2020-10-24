@@ -1,2 +1,2 @@
 # PGGAN
-keras implementation with tf2.x/keras
+progressive growth of GANS,keras implementation with tensorflow2.x/keras
